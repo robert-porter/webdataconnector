@@ -413,6 +413,15 @@
         "source_code": "https://github.com/iamEAP/podcast-wdc"
     },
     {
+        "name": "Popdock",
+        "url": "https://widget.popdock.com/Tableau/popdock.html",
+        "author": "Popdock",
+        "github_username": "robert-porter",
+        "tags": ["v_1.0"], 
+        "description": "Access all your cloud and on-premise data from one easy to use source",
+        "source_code": ""
+    },
+    {
         "name": "PubChem 3d compound connector",
         "url": "http://www.runonthespot.com/PubChem.html",
         "author": "Mike Renwick",
